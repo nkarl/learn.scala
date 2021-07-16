@@ -1,3 +1,6 @@
-[submodule ".\\learn-fp\\"]
-	path = .\\learn-fp\\
+[submodule "./learn-fp/"]
+	path = ./learn-fp/
+	url = https://github.com/dehun/learn-fp
+[submodule "learn-fp"]
+	path = learn-fp
 	url = https://github.com/dehun/learn-fp
