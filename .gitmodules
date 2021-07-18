@@ -1,6 +1,3 @@
-[submodule "./learn-fp/"]
-	path = ./learn-fp/
-	url = https://github.com/dehun/learn-fp
-[submodule "learn-fp"]
-	path = learn-fp
-	url = https://github.com/dehun/learn-fp
+[submodule "learn/functional-programming"]
+	path = learn/functional-programming
+	url = https://github.com/nkarl/learn-fp
