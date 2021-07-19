@@ -4,3 +4,6 @@
 [submodule "learn/example.codes/playWithScala3"]
 	path = learn/example.codes/playWithScala3
 	url = https://github.com/nkarl/playWithScala3
+[submodule "projects/simple-banking-backend"]
+	path = projects/simple-banking-backend
+	url = https://github.com/nkarl/scala.simple-banking-backend
