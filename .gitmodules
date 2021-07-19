@@ -1,3 +1,6 @@
 [submodule "learn/functional-programming"]
 	path = learn/functional-programming
 	url = https://github.com/nkarl/learn-fp
+[submodule "learn/example.codes/playWithScala3"]
+	path = learn/example.codes/playWithScala3
+	url = https://github.com/nkarl/playWithScala3
